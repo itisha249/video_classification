@@ -1,3 +1,4 @@
+##use pytho 3.9.21
 opencv-python
 moviepy
 SpeechRecognition
@@ -10,14 +11,4 @@ tensorflow
 pytorchvideo
 mmcv 
 mmcls
-
-
-
-decorator 
-imageio 
-imageio[ffmpeg] 
-pillow 
-numpy 
-proglog 
-python-dotenv
-
+PIL
